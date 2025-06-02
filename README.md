@@ -2,7 +2,13 @@
 
 ## Run script
 
+```bash
+# interactive mode
+./add-license.sh
 
+# with option
+./add-license.sh mit
+```
 
 
 # Open Source License Guide
